@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/barchart/static/css/main.c181cc2c.css",
+    "main.css": "/barchart/static/css/main.695b93f8.css",
     "main.js": "/barchart/static/js/main.251b8030.js",
     "index.html": "/barchart/index.html",
-    "main.c181cc2c.css.map": "/barchart/static/css/main.c181cc2c.css.map",
+    "main.695b93f8.css.map": "/barchart/static/css/main.695b93f8.css.map",
     "main.251b8030.js.map": "/barchart/static/js/main.251b8030.js.map"
   },
   "entrypoints": [
-    "static/css/main.c181cc2c.css",
+    "static/css/main.695b93f8.css",
     "static/js/main.251b8030.js"
   ]
 }
