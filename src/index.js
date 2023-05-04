@@ -6,7 +6,6 @@ import * as d3 from 'd3';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 function App(){
-  //const padding=30;
   const svgref=useRef();
 
   const [info,setinfo] = useState([])

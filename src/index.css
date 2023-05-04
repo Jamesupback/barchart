@@ -6,11 +6,6 @@ body{
   background-attachment: fixed;
 
 }
-h1{
-  text-align:center;
-  margin:0;
-  margin-top:50px;
-}
 svg{
   background-color: bisque;
   position: relative;
